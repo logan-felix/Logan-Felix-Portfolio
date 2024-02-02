@@ -1,0 +1,118 @@
+body {
+    font-size: large;
+    background-color: lightblue;
+}
+
+h2 {
+    background-color: skyblue;
+    border: solid 3px black;
+    padding: 5px 10px 5px 10px;
+    width: fit-content;
+}
+
+header ul {
+    border: solid 3px black;
+    width: 30%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: whitesmoke;
+}
+
+img {
+    max-width: 500px;
+    max-height: 500px;
+}
+
+#quoteDiv {
+    border: solid 3px black;
+    background-color: whitesmoke;
+    width: fit-content;
+    padding-top: 10px;
+    padding-left: 10px;
+}
+
+/* Skills */
+
+.skill-page div{
+    border: solid 3px black;
+    border-radius: 10px;
+    padding: 10px;
+    display: inline-block;
+    max-width: 1000px;
+    background-color: whitesmoke;
+}
+
+.skill-page div p{
+    display: inline-block;
+    margin-left: 10px;
+    margin-right: 5px;
+    max-width: 200px;
+    vertical-align: top;
+}
+
+.skill-page img{
+    max-width: 200px;
+    max-height: 200px;
+    background-color: black;
+}
+
+
+/* Projects */
+
+.project-page h3{
+    margin-top: 100px;
+    font-size: x-large;
+    background-color: skyblue;
+    width: fit-content;
+    border: solid 3px black;
+    padding: 5px 10px 5px 10px;
+}
+
+.project-page img{
+    border: solid 3px black;
+    max-width: 400px;
+    margin: 10px 10px 10px 10px;
+    border-radius: 20px;
+}
+
+.project-page div div{
+    display: inline-block;
+    border: solid 3px black;
+    margin-top: 25px;
+    vertical-align: top;
+    background-color: whitesmoke;
+}
+
+.project-page div div p{
+    display: inline-block;
+    max-width: 250px;
+    vertical-align: top;
+    padding: 10px;
+}
+
+
+/* About Me */
+
+.about-me-box {
+    display: inline-block;
+    border: solid 3px black;
+    background-color: whitesmoke;
+}
+
+.about-me-box img {
+    max-width: 400px;
+    margin: 10px 10px 10px 10px;
+    border: solid 3px black;
+    border-radius: 10px;
+}
+
+.about-me-box ul {
+    display: inline-block;
+    font-size: x-large;
+    vertical-align: top;
+    padding: 10px 10px 10px 30px;
+}
+
+footer {
+    vertical-align: bottom;
+}
